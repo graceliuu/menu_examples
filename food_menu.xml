@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurant_menu>
+	<dummy></dummy>
+	<food>
+		<name>Burger</name>
+		<price>8.95</price>
+		<desc>A quarter pound cheeseburger with bacon, lettuce, tomato, carmelized onion, and a house-made sauce</desc>
+		<calories>800</calories>
+	</food>
+	<food>
+		<name>Fries</name>
+		<price>3.00</price>
+		<desc>Crispy shoestring fries tossed with a secret blend of seasoning</desc>
+		<calories>400</calories>
+	</food>
+	<food>
+		<name>Vanilla milkshake</name>
+		<price>4.25</price>
+		<desc>A rich vanilla shake sourced from local dairy farms and topped with whipped cream</desc>
+		<calories>900</calories>
+	</food>
+	<food>
+		<name>Hot dog</name>
+		<price>3.75</price>
+		<desc>A classic Chicago dog topped with tomatoes, mustard, sweet onion, and pickle on a hot poppyseed bun</desc>
+		<calories>600</calories>
+	</food>
+	<food>
+		<name>Caesar salad</name>
+		<price>5.00</price>
+		<desc>Made with our house-made dressing and comes with grilled chicken</desc>
+		<calories>350</calories>
+	</food>
+</restaurant_menu>
