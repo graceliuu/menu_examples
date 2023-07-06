@@ -9,7 +9,7 @@
 	</food>
 	<food>
 		<name>Fries</name>
-		<price>3.05</price>
+		<price>3.00</price>
 		<desc>Crispy shoestring fries tossed with a secret blend of seasoning</desc>
 		<calories>400</calories>
 	</food>
