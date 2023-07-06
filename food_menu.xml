@@ -9,7 +9,7 @@
 	</food>
 	<food>
 		<name>Fries</name>
-		<price>3.00</price>
+		<price>3.05</price>
 		<desc>Crispy shoestring fries tossed with a secret blend of seasoning</desc>
 		<calories>400</calories>
 	</food>
@@ -27,7 +27,7 @@
 	</food>
 	<food>
 		<name>Caesar salad</name>
-		<price>5.00</price>
+		<price>5.50</price>
 		<desc>Made with our house-made dressing and comes with grilled chicken</desc>
 		<calories>350</calories>
 	</food>
