@@ -14,7 +14,7 @@
 		<calories>400</calories>
 	</food>
 	<food>
-		<name>VANILLA MILKSHAKE</name>
+		<name>MILKSHAKE</name>
 		<price>4.25</price>
 		<desc>A rich vanilla shake sourced from local dairy farms and topped with whipped cream</desc>
 		<calories>900</calories>
