@@ -1,34 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <restaurant_menu>
-	<dummy></dummy>
-	<food>
-		<name>BURGER</name>
-		<price>8.95</price>
-		<desc>A quarter pound cheeseburger with bacon, lettuce, tomato, carmelized onion, and a house-made sauce</desc>
-		<calories>800</calories>
-	</food>
-	<food>
-		<name>FRIES</name>
-		<price>3.00</price>
-		<desc>Crispy shoestring fries tossed with a secret blend of seasoning</desc>
-		<calories>400</calories>
-	</food>
-	<food>
-		<name>MILKSHAKE</name>
-		<price>4.25</price>
-		<desc>A rich vanilla shake sourced from local dairy farms and topped with whipped cream</desc>
-		<calories>900</calories>
-	</food>
-	<food>
-		<name>HOT DOG</name>
-		<price>3.75</price>
-		<desc>A classic Chicago dog topped with tomatoes, mustard, sweet onion, and pickle on a hot poppyseed bun</desc>
-		<calories>600</calories>
-	</food>
-	<food>
-		<name>SALAD</name>
-		<price>5.50</price>
-		<desc>Caesar salad made with our house-made dressing and comes with grilled chicken</desc>
-		<calories>350</calories>
-	</food>
+    <dummy></dummy>
+    <burgers>
+        <dummy></dummy>
+        <item>
+            <name>PUB BURGER</name>
+            <price>9.25</price>
+            <desc>A quarter pound cheeseburger with bacon, lettuce, tomato, carmelized onion, and barbecue sauce</desc>
+        </item>
+        <item>
+            <name>FARM BURGER</name>
+            <price>8.95</price>
+            <desc>A quarter pound cheeseburger with bacon, lettuce, and a sunny-side up egg</desc>
+        </item>
+        <item>
+            <name>CALIFORNIA BURGER</name>
+            <price>8.95</price>
+            <desc>A quarter pound burger with lettuce, tomato, red onion, avocado, and a spicy sweet mayo</desc>
+        </item>
+        <item>
+            <name>MUSHROOM BURGER</name>
+            <price>8.00</price>
+            <desc>All vegetarian burger with a fried portobello patty, carmelized onion, and our delicious house-made sauce</desc>
+        </item>
+        <item>
+            <name>BUILD YOUR OWN BURGER</name>
+            <price>8.50</price>
+            <desc>Red onion, lettuce, tomato, and pickles are free. Comes with our house-made sauce</desc>
+        </item>
+    </burgers>
+    <toppings>
+        <dummy></dummy>
+        <item>
+            <name>American cheese</name>
+            <price>0</price>
+        </item>
+        <item>
+            <name>Red onion</name>
+            <price>0</price>
+        </item>
+        <item>
+            <name>Lettuce</name>
+            <price>0</price>
+        </item>
+        <item>
+            <name>Tomato</name>
+            <price>0</price>
+        </item>
+        <item>
+            <name>Pickles</name>
+            <price>0</price>
+        </item>
+        <item>
+            <name>Carmelized onion</name>
+            <price>0.50</price>
+        </item>
+        <item>
+            <name>Fried egg</name>
+            <price>0.50</price>
+        </item>
+        <item>
+            <name>Bacon</name>
+            <price>1.00</price>
+        </item>
+        <item>
+            <name>Avocado</name>
+            <price>1.00</price>
+        </item>
+    </toppings>
 </restaurant_menu>
