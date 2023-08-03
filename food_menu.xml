@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <restaurant_menu>
     <dummy></dummy>
-    <burgers>
+    <BURGERS>
         <dummy></dummy>
         <item>
             <name>PUB BURGER</name>
@@ -28,44 +28,44 @@
             <price>8.50</price>
             <desc>Red onion, lettuce, tomato, and pickles are free. Comes with our house-made sauce</desc>
         </item>
-    </burgers>
-    <toppings>
+    </BURGERS>
+    <TOPPINGS>
         <dummy></dummy>
         <item>
-            <name>American cheese</name>
+            <name>AMERICAN CHEESE</name>
             <price>0</price>
         </item>
         <item>
-            <name>Red onion</name>
+            <name>RED ONION</name>
             <price>0</price>
         </item>
         <item>
-            <name>Lettuce</name>
+            <name>LETTUCE</name>
             <price>0</price>
         </item>
         <item>
-            <name>Tomato</name>
+            <name>TOMATO</name>
             <price>0</price>
         </item>
         <item>
-            <name>Pickles</name>
+            <name>PICKLES</name>
             <price>0</price>
         </item>
         <item>
-            <name>Carmelized onion</name>
+            <name>CARMELIZED ONION</name>
             <price>0.50</price>
         </item>
         <item>
-            <name>Fried egg</name>
+            <name>FRIED EGG</name>
             <price>0.50</price>
         </item>
         <item>
-            <name>Bacon</name>
+            <name>BACON</name>
             <price>1.00</price>
         </item>
         <item>
-            <name>Avocado</name>
+            <name>AVOCADO</name>
             <price>1.00</price>
         </item>
-    </toppings>
+    </TOPPINGS>
 </restaurant_menu>
