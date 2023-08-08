@@ -6,7 +6,7 @@
         <item>
             <name>PUB BURGER</name>
             <price>9.25</price>
-            <desc>A quarter pound cheeseburger with bacon, lettuce, tomato, carmelized onion, and barbecue sauce</desc>
+            <desc>A quarter pound cheeseburger with bacon, lettuce, tomato, pickles, carmelized onion, and barbecue sauce</desc>
         </item>
         <item>
             <name>FARM BURGER</name>
@@ -23,45 +23,33 @@
             <price>8.00</price>
             <desc>All vegetarian burger with a fried portobello patty, carmelized onion, and our delicious house-made sauce</desc>
         </item>
-        <item>
-            <name>BUILD YOUR OWN BURGER</name>
-            <price>8.50</price>
-            <desc>Red onion, lettuce, tomato, and pickles are free. Comes with our house-made sauce</desc>
-        </item>
     </BURGERS>
-    <TOPPINGS>
+    <SIDES>
         <dummy></dummy>
         <item>
-            <name>AMERICAN CHEESE</name>
-            <price>0</price>
+            <name>FRIES</name>
+            <price>3.50</price>
+            <desc>Crispy shoestring fries</desc>
         </item>
         <item>
-            <name>RED ONION</name>
-            <price>0</price>
+            <name>ONION RINGS</name>
+            <price>4.00</price>
+            <desc>Beer-battered onion rings paired with a cool homemade ranch</desc>
+        </item>
+    </SIDES>
+    <SHAKES>
+        <dummy></dummy>
+        <item>
+            <name>CHOCOLATE SHAKE</name>
+            <price>4.00</price>
         </item>
         <item>
-            <name>LETTUCE</name>
-            <price>0</price>
+            <name>VANILLA SHAKE</name>
+            <price>4.00</price>
         </item>
         <item>
-            <name>TOMATO</name>
-            <price>0</price>
+            <name>STRAWBERRY SHAKE</name>
+            <price>4.50</price>
         </item>
-        <item>
-            <name>PICKLES</name>
-            <price>0</price>
-        </item>
-        <item>
-            <name>FRIED EGG</name>
-            <price>0.50</price>
-        </item>
-        <item>
-            <name>BACON</name>
-            <price>1.00</price>
-        </item>
-        <item>
-            <name>AVOCADO</name>
-            <price>1.00</price>
-        </item>
-    </TOPPINGS>
+    </SHAKES>
 </restaurant_menu>
