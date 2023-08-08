@@ -20,7 +20,7 @@
         </item>
         <item>
             <name>MUSHROOM BURGER</name>
-            <price>8.00</price>
+            <price>8.10</price>
             <desc>All vegetarian burger with a fried portobello patty, carmelized onion, and our delicious house-made sauce</desc>
         </item>
     </BURGERS>
@@ -33,7 +33,7 @@
         </item>
         <item>
             <name>ONION RINGS</name>
-            <price>4.00</price>
+            <price>4.15</price>
             <desc>Beer-battered onion rings paired with a cool homemade ranch</desc>
         </item>
     </SIDES>
@@ -41,15 +41,15 @@
         <dummy></dummy>
         <item>
             <name>CHOCOLATE SHAKE</name>
-            <price>4.00</price>
+            <price>3.75</price>
         </item>
         <item>
             <name>VANILLA SHAKE</name>
-            <price>4.00</price>
+            <price>3.75</price>
         </item>
         <item>
             <name>STRAWBERRY SHAKE</name>
-            <price>4.50</price>
+            <price>4.25</price>
         </item>
     </SHAKES>
 </restaurant_menu>
