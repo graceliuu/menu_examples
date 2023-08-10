@@ -52,4 +52,11 @@
             <price>4.25</price>
         </item>
     </SHAKES>
+    <HOTDOG>
+        <dummy></dummy>
+        <item>
+            <name>CHICAGO DOG</name>
+            <price>5.25</price>
+        </item>
+    </HOTDOG>
 </restaurant_menu>
